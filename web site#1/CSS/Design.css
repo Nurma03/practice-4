@@ -1,0 +1,124 @@
+body {
+  margin: 0 0;
+  font-family: cursive;
+  background-color: #80b3ff;
+}
+#title {
+  background-color: #0047b3;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.nav-item {
+  margin: 0 15px;
+}
+
+.nav-link {
+  font-size: 25px;
+}
+
+#greet {
+  margin-top: 0;
+  text-align: center;
+  font-style: oblique;
+  font-size: 75px;
+  color: red;
+}
+
+.Greet {
+  text-align: center;
+  font-family: sans-serif;
+  font-size: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-image: radial-gradient(cyan, #000066);
+}
+
+hr {
+  height: 10px;
+  border: 0;
+  background-color: grey
+}
+
+h2 {
+  font-family: monospace;
+  font-size: 40px;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.middle {
+  font-style: italic;
+  font-size: 20px;
+}
+
+#features {
+  text-align: center;
+  margin: 1% 9%;
+}
+
+.F {
+  font-weight: bold;
+  background-image: linear-gradient(#00ff00, #004d00);
+}
+
+.M {
+  font-weight: bold;
+  background-image: linear-gradient(#ff3333, #b30000);
+}
+
+.S {
+  font-weight: bold;
+  background-image: linear-gradient(#4da6ff, #0059b3);
+}
+
+.C {
+  font-weight: bold;
+  background-image: linear-gradient(#ff80ff, #b300b3);
+}
+
+#Testimonials {
+  margin: 10px 0;
+  text-align: center;
+}
+
+.carousel-item {
+  height: 400px;
+}
+
+.Comments1 {
+  color: white;
+  font-size: 60px;
+  font-family: serif;
+}
+
+.Comments2 {
+  color: white;
+  font-size: 60px;
+  font-family: serif;
+}
+
+.Comments3 {
+  color: white;
+  font-size: 60px;
+  font-family: serif;
+}
+
+.Comments4 {
+  color: white;
+  font-size: 60px;
+  font-family: serif;
+}
+
+.kartina {
+  text-align: center;
+}
+
+ul {
+  font-family: fantasy;
+  font-size: 30px;
+}
